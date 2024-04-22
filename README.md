@@ -6,7 +6,7 @@
 - 👌 Checkout my works via links: https://temoojii.wixsite.com/tempalette        photography portfolio
 -   https://temoojii.wixsite.com/greenscape-forum  greenscape-Forum-blog
 -   @abdullah.qaasim via instagram
--   @Temoojii via  pinterest
+-   https://www.pinterest.com/Temoojii/ via  pinterest
 <!---
 Alqaasimee-jr2/Alqaasimee-jr2 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
