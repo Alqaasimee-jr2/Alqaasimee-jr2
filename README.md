@@ -1,89 +1,100 @@
-# 👋 Hi, I’m Abdullah Qaasim (Alqaasimee-jr2)
+# 👋 Hi, I'm Abdullah Qaasim
 
-![Profile views](https://komarev.com/ghpvc/?username=Alqaasimee-jr2&color=0e75b6)
+🚀 Web Designer | App Developer | Automation Builder | Creative Technologist
 
-## 🚀 About me
-I build digital products and systems that help businesses attract, convert, and manage customers online. I design beautiful interfaces, build mobile and web apps, and automate workflows so teams can focus on what matters.
+I build digital systems that help businesses **attract, convert, and manage customers online**.
 
-- 🔭 Currently building: Flow7 — a mobile-first time awareness journal
-- 🌱 Learning: advanced React patterns, backend for scale, and product design
-- 👯 Open to: collaborations on web platforms, mobile apps, automations, and design systems
-- ⚡ Fun: photography & cinematography
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alqaasimee-jr2&show_icons=true&theme=radical" alt="github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alqaasimee-jr2&layout=compact&theme=radical" alt="top languages">
-</p>
+My work focuses on:
+- 🌐 Website design & landing page systems
+- 🤖 Automation workflows
+- 📱 App development
+- 🎨 Visual content & design
+- 🧠 Building digital products and tools
+- 📷 Photography & Cinematography
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend & UI**
-- HTML, CSS, JavaScript, Bootstrap
-- React (basic), Flutter (mobile)
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
-**Development & Backend**
-- Node.js, Java, Firebase
+**Development**
+- Java
+- React / Node
+- Flutter / Dart
 
 **Tools & Platforms**
-- Git & GitHub, Vercel, Web builders, Automation tools
+- Git & GitHub
+- Web builders
+- Automation tools
+- Antigravity
+- Firebase
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🧠 Nit7er
-NIT7ER — a Lagos-based creative tech & brand studio. I craft premium identities and build digital products (studios + product builds).
-- Live: https://nit7er.vercel.app/
-- Role: Design, product, and front-end
-- Tech: HTML, CSS, JS, Vercel
+NIT7ER is my Lagos-based creative tech and brand design studio that crafts premium identities and builds digital products like Flow7 under one umbrella.
+
+🔗 https://nit7er.vercel.app/
 
 ---
 
 ### ⚡ Flow7
-Flow7 is a mobile-first time awareness journal that helps users log time across life areas and see simple daily & weekly insights.
-- Live: https://flow7-two.vercel.app
-- Role: Product design, app UI, front-end
-- Tech: Flutter / Dart, web hosting (Vercel)
+Flow7 is a mobile‑first time awareness journal that lets anyone log how they spent their time across key life areas and then shows simple daily and weekly insights so they can clearly see where [...] 
+
+🔗 https://flow7-two.vercel.app
 
 ---
 
 ### 🍽 Restaurante
-A modern restaurant website prototype demonstrating responsive UI, menu presentation, and customer interactions (reservations, business info).
-- Live: https://restaurante-rose-gamma.vercel.app
-- Role: UI/UX, front-end
-- Tech: HTML, CSS, JS
+Restaurante is a modern restaurant website prototype built to demonstrate responsive UI design, menu presentation, and customer interaction features like reservations and business information.
+
+🔗 https://restaurante-rose-gamma.vercel.app
 
 ---
 
-### 📸 Tempalette Photography Portfolio
-Photography showcase site with visual storytelling and gallery layouts.
-- Live: https://temoojii.wixsite.com/tempalette
-- Role: Visual design, galleries
+### 📸 Tempalette Photography Portfolio  
+A photography showcase website with visual storytelling and gallery layouts.  
+
+🔗 https://temoojii.wixsite.com/tempalette
 
 ---
 
 ## 🤝 Open to Collaborations
-I’m interested in building web platforms, mobile apps, automation systems, design experiments, and contributing to open source. If you have an idea or project, let’s work together.
+
+I’m interested in working on:
+- Web platforms
+- Mobile apps
+- Automation systems
+- Design experiments
+- Open source projects
+
+If you're building something interesting, **let’s connect.**
 
 ---
 
 ## 📬 Contact
 
-- Email: qaasimkids6@gmail.com
-- Phone: +2349019597944
+📧 Email: qaasimkids6@gmail.com  
+📱 Phone: +2349019597944  
 
 **Socials**
-- LinkedIn: https://linkedin.com/in/abdullahqaasimf001
-- Instagram: https://instagram.com/abdullah.qaasim
-- Nitro (Nit7er): https://instagram.com/nit7er
-- Pinterest: https://www.pinterest.com/Temoojii/
+Linkedin
+http://linkedin.com/in/abdullahqaasimf001
+
+Instagram  
+https://instagram.com/abdullah.qaasim  
+https://instagram.com/nit7er
+
+Pinterest  
+https://www.pinterest.com/Temoojii/
 
 ---
 
-⭐ Always learning. Always building.
+⭐ *Always learning. Always building.*
